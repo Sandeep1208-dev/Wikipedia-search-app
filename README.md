@@ -36,19 +36,6 @@ wikipedia-search/
 ├── style.css        # Custom CSS styles
 ├── script.js        # JavaScript logic
 └── README.md        # Project documentation
-
----
-
-## 🚀 How to Run Locally
-
-1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/wikipedia-search.git
-
-2. Open the project folder:
-   cd wikipedia-search
-
-3. Open index.html in your browser — that's it!
-
 ---
 
 ## 🔍 How It Works
@@ -58,17 +45,6 @@ wikipedia-search/
 3. A loading spinner is shown while the request is in progress
 4. Results are displayed with title, link, and description
 5. Each result opens the Wikipedia article in a new tab
-
----
-
-## 📦 Deployment
-
-This site is deployed using GitHub Pages.
-
-To deploy your own copy:
-1. Go to your repo → Settings → Pages
-2. Set source to main branch
-3. Your site will be live at https://YOUR_USERNAME.github.io/wikipedia-search
 
 ---
 
